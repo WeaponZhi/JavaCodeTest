@@ -16,5 +16,6 @@ public class MainThread {
     public void main(){
         LiftOff launch = new LiftOff();
         launch.run();
+        LiftOff launch1 = new LiftOff();
     }
 }
